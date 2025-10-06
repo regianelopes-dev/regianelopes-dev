@@ -44,6 +44,7 @@ Hoje, combino a minha experiência em operações com as minhas competências t�
 | 💻 Projeto                                                                            | 🚀 Descrição                                                                                       | 🧰 Tecnologias                |
 | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------- |
 | [📚 Biblioteca Laravel](https://github.com/regianelopes-dev/projeto-biblioteca-laravel) | Sistema completo de gestão de biblioteca com controle de requisições, penalizações e notificações. | Laravel · TailwindCSS · MySQL |
+| [🛒 Loja Online C#](https://github.com/regianelopes-dev/lojaOnline-csharp)               | Loja online completa desenvolvida em C# com ASP.NET, pagamentos com Stripe e envio de emails.       | C# · ASP.NET · SQL Server     |
 | [✅ Dooit](https://github.com/regianelopes-dev/dooit)                                   | Um gerenciador de tarefas simples e intuitivo para organizar as suas atividades diárias.            | Laravel · Vue.js · TailwindCSS   |
 
 ---
