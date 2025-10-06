@@ -33,7 +33,7 @@ Hoje, combino a minha experiência em operações com as minhas competências t�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,php,mysql,js,tailwind,html,css,git,pest" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,csharp,dotnet,vue,js,tailwind,mysql,sqlserver,html,css,git" />
   </a>
 </p>
 
