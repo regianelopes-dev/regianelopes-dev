@@ -32,10 +32,84 @@ Hoje, combino a minha experiência em operações com as minhas competências t�
 ### 🧠 Stack Principal
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,dotnet,vue,js,tailwind,mysql,sqlserver,html,css,git" height="40" alt="skill-icons"/>
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        </a>
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        </a>
+        <br>PHP
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        </a>
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+        </a>
+        <br>.NET
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+        </a>
+        <br>Vue.js
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=sqlserver" width="48" height="48" alt="SQL Server" />
+        </a>
+        <br>SQL Server
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+        </a>
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        </a>
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        </a>
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <a href="#-stack-principal">
+          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
