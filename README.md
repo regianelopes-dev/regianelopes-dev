@@ -23,9 +23,9 @@ Durante mais de **7 anos**, a minha paixão era otimizar sistemas e liderar equi
 Essa jornada ensinou-me que a ferramenta mais poderosa para a eficiência é a **tecnologia bem aplicada**.  
 Hoje, combino a minha experiência em operações com as minhas competências técnicas para construir aplicações que resolvem problemas reais de negócio.
 
-- 👩‍💻 Atualmente focada no ecossistema **Laravel** e **Vue.js**  
-- 🌱 Sempre a aprender sobre **Clean Code** e **Testes Automatizados**  
-- 🎯 Procuro integrar equipas que valorizem **inovação, colaboração e propósito**
+-   👩‍💻 Atualmente focada no ecossistema **Laravel** e **Vue.js**
+-   🌱 Sempre a aprender sobre **Clean Code** e **Testes Automatizados**
+-   🎯 Procuro integrar equipas que valorizem **inovação, colaboração e propósito**
 
 ---
 
@@ -41,12 +41,10 @@ Hoje, combino a minha experiência em operações com as minhas competências t�
 
 ### 📂 Projetos em Destaque
 
-| 💻 Projeto | 🚀 Descrição | 🧰 Tecnologias |
-|-------------|--------------|----------------|
+| 💻 Projeto                                                                            | 🚀 Descrição                                                                                       | 🧰 Tecnologias                |
+| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------- |
 | [📚 Biblioteca Laravel](https://github.com/regianelopes-dev/projeto-biblioteca-laravel) | Sistema completo de gestão de biblioteca com controle de requisições, penalizações e notificações. | Laravel · TailwindCSS · MySQL |
-| [🧾 Gestão App](https://github.com/regianelopes-dev/gestao-app) | Aplicação de gestão de pagamentos e agendamentos de serviços. | ASP.NET WebForms · SQL Server |
-| [💬 Chat App](https://github.com/regianelopes-dev/chat-app) | Aplicação de chat em tempo real com autenticação e interface moderna. | Laravel · Vue.js · Pusher |
-| [🛒 ERP Completo](https://github.com/regianelopes-dev/gestao-app) | Sistema de ERP modular e escalável com foco em operações empresariais. | Laravel · Filament · MySQL |
+| [✅ Dooit](https://github.com/regianelopes-dev/dooit)                                   | Um gerenciador de tarefas simples e intuitivo para organizar as suas atividades diárias.            | Laravel · Vue.js · TailwindCSS   |
 
 ---
 
