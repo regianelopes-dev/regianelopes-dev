@@ -33,8 +33,9 @@ Hoje, combino a minha experiência em operações com as minhas competências t�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,csharp,dotnet,vue,js,tailwind,mysql,sqlserver,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,dotnet,vue,js,tailwind,mysql,sqlserver,html,css,git" height="40" alt="skill-icons"/>
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </p>
 
 ---
